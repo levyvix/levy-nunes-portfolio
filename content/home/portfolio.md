@@ -28,14 +28,13 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: Web Scraping
-      tag: SCRAP
     - name: Streaming
       tag: STR
+    - name: Web Scraping
+      tag: SCRAP
+    - name: Computer Vision
+      tag: CV
+    
 
 design:
   columns: '1'
