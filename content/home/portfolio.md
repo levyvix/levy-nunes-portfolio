@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: ''
+title: 'Projects'
 subtitle: ''
 
 content:
@@ -32,8 +32,10 @@ content:
       tag: ML
     - name: Computer Vision
       tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Web Scraping
+      tag: SCRAP
+    - name: Streaming
+      tag: STR
 
 design:
   columns: '1'
