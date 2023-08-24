@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Levy Marques Nunes
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'Data Engineer'
 
 # Status emoji
 status:
@@ -18,12 +18,13 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Sou um Engenheiro de Dados com experiência em sistemas distribuídos, processamento de dados e integração de dados. Tenho uma sólida formação em programação e modelagem de dados, e sou apaixonado por aproveitar os dados para obter insights e resolver problemas complexos. No meu tempo livre, gosto de explorar novas tecnologias e estar atualizado com as últimas tendências no campo da engenharia de dados.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interesses:
+  - Engenharia de Big Data
+  - Sistemas Distribuídos
+  - Processamento de Dados
+  - Integração de Dados
 
 #education:
 #  courses:
@@ -44,13 +45,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'mailto:levy.vix@gmail.com'
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://linkedin.com/in/levyvix
+  - icon: github
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://github.com/levyvix/
+
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -66,8 +68,6 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Levy Marques Nunes é um Engenheiro de Dados com expertise em sistemas distribuídos, processamento de dados e integração de dados. Ele possui uma sólida formação em programação e modelagem de dados. Levy é apaixonado por aproveitar os dados para obter insights e resolver problemas complexos. Em seu tempo livre, ele gosta de explorar novas tecnologias e se manter atualizado com as últimas tendências no campo da engenharia de dados.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Baixe{{< /staticref >}} meu currículo em formato PDF.
